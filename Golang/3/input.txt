@@ -1,0 +1,6 @@
+1. Buatlah sebuah fungsi dengan nama checkp alindrom yang menerima parameter berupa sebuah string, aplikasi tersebut mengembalikan true jika string tersebut palindrom jika tidak maka false
+2. Buatlah sebuah fungsi dengan nama fibonaci yang menerima parameter berupa sebuah integer
+3. Buatlah sebuah program go lang untuk menghitung faktorial 
+4. Buatlah sebauh program go lang untuk menghitung bilangan prima program harus dapat menerima input bilangan positif dan menampilkan semua bilangan prima 
+5. Buatlah sebuah aplikasi untuk menampilkan daftar produk tiap produk harus memiliki nama, deskripsi dan harga tambahkan fitur untuk mengurutkan produk berdasarkan harga dan nama
+6. Buatlah sebuah program sederhana yang membaca sebuah file dengan input .txt
